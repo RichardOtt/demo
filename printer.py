@@ -3,6 +3,6 @@ def printer(x):
         print(i)
 
 if __name__ == '__main__':
-    print("How high to go?")
+    print("How high should I go?")
     x = int(input())
     printer(x)
